@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//123123123123
 public class TaskDay1 {
     public static void main(String[] args){
         System.out.println("Task1");
@@ -35,6 +35,7 @@ public class TaskDay1 {
 
         System.out.println();
         System.out.println("Task6");
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите число от 1 до 9");
         int x = sc.nextInt();
@@ -44,5 +45,4 @@ public class TaskDay1 {
             System.out.println(f+"*"+x+"= "+result);
         }
     }
-
 }
