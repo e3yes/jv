@@ -1,2 +1,2 @@
 # QQ
-dnt wtch ths
+learn java
